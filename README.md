@@ -64,10 +64,6 @@ python update_data.py
 ### Miscellaneous
 *project_charter.pdf* -- The original project charter for this capstone course.
 
-## Contributors
-* Kingsley Nwosu
-* Alex Zhu
-* Niket Sharma
 
 
 
