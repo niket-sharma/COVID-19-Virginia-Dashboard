@@ -62,7 +62,7 @@ python update_data.py
 *locality_vaccines.csv* -- Vaccine adminstration counts broken down to the county level by date.
 
 ### Miscellaneous
-*project_charter.pdf* -- The original project charter for this capstone course.
+
 
 
 
